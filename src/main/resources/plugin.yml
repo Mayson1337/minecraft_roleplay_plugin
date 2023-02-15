@@ -1,0 +1,41 @@
+name: Metro_Roleplay
+version: '${project.version}'
+main: de.polo.metro_roleplay.Main
+api-version: 1.16
+authors: [ Polo66 ]
+description: Metro Roleplay
+
+commands:
+  aduty:
+    aliases: ad
+  setgroup:
+  geldbeutel:
+    aliases: gb
+  personalausweis:
+    aliases: perso
+  teamchat:
+    aliases: tc
+  leadfrak:
+  fraktionschat:
+    aliases: f
+  uninvite:
+  setloc:
+  bank:
+  setfraktion:
+    aliases: setfrak
+  adminuninvite:
+    aliases: auninvite
+  assistentchat:
+    aliases: ac
+  support:
+  cancelsupport:
+  acceptsupport:
+    aliases: asupport
+  closesupport:
+    aliases: csupport
+  target-ip:
+    aliases: tip
+  tpto:
+  adminrevive:
+    aliases: arevive
+  registeratm:
