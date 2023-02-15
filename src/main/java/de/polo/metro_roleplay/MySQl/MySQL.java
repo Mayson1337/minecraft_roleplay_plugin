@@ -6,9 +6,9 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 public class MySQL {
-    static String url = "jdbc:mysql://localhost/minecraft";
+    static String url = "jdbc:mysql://localhost/minecraft"; //Hier bitte "minecraft" mit datenbanoname ersetzen
     static String user = "root";
-    static String password = "wao5ea3Shiem4ahghiThaemar8Xiesoo";
+    static String password = "passwort";
     static int port = 3306;
     private static boolean error;
     public static Connection connection;
